@@ -1,35 +1,44 @@
-<mxfile host="app.diagrams.net" modified="2020-09-30T07:07:04.600Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="lWEBMEJp1ZPzseGn7pUA" version="13.7.6" type="github">
+<mxfile host="app.diagrams.net" modified="2020-09-30T08:19:00.236Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="Jca1M2rV3rAZU87xzu7B" version="13.7.6" type="github">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
     <mxGraphModel dx="1426" dy="825" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="MYoXy8F3OLypVtrj_-tT-12" value="" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
-          <mxGeometry x="50" y="200" width="650" height="370" as="geometry" />
+          <mxGeometry x="40" y="180" width="940" height="460" as="geometry" />
         </mxCell>
         <mxCell id="MYoXy8F3OLypVtrj_-tT-7" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="MYoXy8F3OLypVtrj_-tT-1" target="MYoXy8F3OLypVtrj_-tT-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="MYoXy8F3OLypVtrj_-tT-10" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="MYoXy8F3OLypVtrj_-tT-1" target="MYoXy8F3OLypVtrj_-tT-3">
+        <mxCell id="MYoXy8F3OLypVtrj_-tT-10" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="MYoXy8F3OLypVtrj_-tT-1" target="MYoXy8F3OLypVtrj_-tT-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="MYoXy8F3OLypVtrj_-tT-11" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="MYoXy8F3OLypVtrj_-tT-1" target="MYoXy8F3OLypVtrj_-tT-5">
+        <mxCell id="MYoXy8F3OLypVtrj_-tT-11" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="MYoXy8F3OLypVtrj_-tT-1" target="MYoXy8F3OLypVtrj_-tT-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MYoXy8F3OLypVtrj_-tT-26" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="MYoXy8F3OLypVtrj_-tT-1" target="MYoXy8F3OLypVtrj_-tT-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MYoXy8F3OLypVtrj_-tT-30" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="MYoXy8F3OLypVtrj_-tT-1" target="MYoXy8F3OLypVtrj_-tT-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MYoXy8F3OLypVtrj_-tT-64" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="MYoXy8F3OLypVtrj_-tT-1" target="MYoXy8F3OLypVtrj_-tT-63">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="MYoXy8F3OLypVtrj_-tT-1" value="埋点处理配置" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="160" y="420" width="120" height="60" as="geometry" />
+          <mxGeometry x="200" y="435" width="470" height="60" as="geometry" />
         </mxCell>
         <mxCell id="MYoXy8F3OLypVtrj_-tT-2" value="id" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="70" y="380" width="55" height="30" as="geometry" />
+          <mxGeometry x="85" y="395" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="MYoXy8F3OLypVtrj_-tT-3" value="埋点相关字段：&lt;br&gt;1.埋点id&lt;br&gt;2.appType&lt;br&gt;3.eventId&lt;br&gt;4.pageId&lt;br&gt;5.elementId&lt;br&gt;6.projectId&lt;br&gt;7.page&lt;br&gt;8.arg1&lt;br&gt;9.project_id" style="ellipse;whiteSpace=wrap;html=1;align=left;spacingTop=0;spacing=64;" vertex="1" parent="1">
-          <mxGeometry x="150" y="220" width="210" height="170" as="geometry" />
+          <mxGeometry x="90" y="215" width="210" height="170" as="geometry" />
         </mxCell>
         <mxCell id="MYoXy8F3OLypVtrj_-tT-4" value="toTopics" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="70" y="435" width="55" height="30" as="geometry" />
+          <mxGeometry x="70" y="450" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="MYoXy8F3OLypVtrj_-tT-5" value="源数据处理filters，采用mysql json类型存储&lt;br&gt;&quot;sourceFilters&quot;:[&lt;br&gt;&amp;nbsp; &amp;nbsp; {&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;type&quot;:&quot;filter type&quot;,&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;params&quot;:{&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;field&quot;:&quot;value&quot;&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; }&lt;br&gt;&amp;nbsp; &amp;nbsp; }&lt;br&gt;&amp;nbsp; &amp;nbsp; {&lt;br&gt;&amp;nbsp; &amp;nbsp; ........&lt;br&gt;&amp;nbsp; &amp;nbsp; }&lt;br&gt;]" style="ellipse;whiteSpace=wrap;html=1;align=left;spacingTop=0;spacing=64;" vertex="1" parent="1">
-          <mxGeometry x="380" y="300" width="280" height="240" as="geometry" />
+          <mxGeometry x="530" y="205" width="250" height="210" as="geometry" />
         </mxCell>
         <mxCell id="MYoXy8F3OLypVtrj_-tT-6" value="" style="endArrow=none;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="MYoXy8F3OLypVtrj_-tT-1" target="MYoXy8F3OLypVtrj_-tT-2">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -37,11 +46,116 @@
             <mxPoint x="640" y="510" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="MYoXy8F3OLypVtrj_-tT-9" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="MYoXy8F3OLypVtrj_-tT-8" target="MYoXy8F3OLypVtrj_-tT-1">
+        <mxCell id="MYoXy8F3OLypVtrj_-tT-25" value="note" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="75" y="500" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="MYoXy8F3OLypVtrj_-tT-29" value="结果数据处理filters，采用mysql json类型存储&lt;br&gt;&quot;resultFilters&quot;:[&lt;br&gt;&amp;nbsp; &amp;nbsp; {&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;type&quot;:&quot;CopyFilter&quot;,&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;params&quot;:{&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;field&quot;:&quot;value&quot;&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; }&lt;br&gt;&amp;nbsp; &amp;nbsp; }&lt;br&gt;&amp;nbsp; &amp;nbsp; {&lt;br&gt;&amp;nbsp; &amp;nbsp; ........&lt;br&gt;&amp;nbsp; &amp;nbsp; }&lt;br&gt;]" style="ellipse;whiteSpace=wrap;html=1;align=left;spacingTop=0;spacing=64;" vertex="1" parent="1">
+          <mxGeometry x="700" y="390" width="255" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="MYoXy8F3OLypVtrj_-tT-31" value="" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="40" y="800" width="960" height="490" as="geometry" />
+        </mxCell>
+        <mxCell id="MYoXy8F3OLypVtrj_-tT-32" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="MYoXy8F3OLypVtrj_-tT-37" target="MYoXy8F3OLypVtrj_-tT-40">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="MYoXy8F3OLypVtrj_-tT-8" value="resultType" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="70" y="490" width="55" height="30" as="geometry" />
+        <mxCell id="MYoXy8F3OLypVtrj_-tT-33" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="MYoXy8F3OLypVtrj_-tT-37" target="MYoXy8F3OLypVtrj_-tT-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MYoXy8F3OLypVtrj_-tT-34" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.08;entryY=0.776;entryDx=0;entryDy=0;endArrow=none;endFill=0;entryPerimeter=0;" edge="1" parent="1" source="MYoXy8F3OLypVtrj_-tT-37" target="MYoXy8F3OLypVtrj_-tT-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MYoXy8F3OLypVtrj_-tT-35" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="MYoXy8F3OLypVtrj_-tT-37" target="MYoXy8F3OLypVtrj_-tT-45">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MYoXy8F3OLypVtrj_-tT-36" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="MYoXy8F3OLypVtrj_-tT-37" target="MYoXy8F3OLypVtrj_-tT-46">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MYoXy8F3OLypVtrj_-tT-66" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="MYoXy8F3OLypVtrj_-tT-37" target="MYoXy8F3OLypVtrj_-tT-65">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MYoXy8F3OLypVtrj_-tT-37" value="maserati处理配置" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="1065" width="470" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MYoXy8F3OLypVtrj_-tT-38" value="id" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="85" y="1030" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="MYoXy8F3OLypVtrj_-tT-39" value="确定表相关配置：&lt;br&gt;1.schemaName&lt;br&gt;2.tableName" style="ellipse;whiteSpace=wrap;html=1;align=left;spacingTop=0;spacing=34;" vertex="1" parent="1">
+          <mxGeometry x="110" y="920" width="170" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="MYoXy8F3OLypVtrj_-tT-40" value="toTopics" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="1080" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="MYoXy8F3OLypVtrj_-tT-41" value="源数据处理filters，采用mysql json类型存储&lt;br&gt;&quot;sourceFilters&quot;:[&lt;br&gt;&amp;nbsp; &amp;nbsp; {&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;type&quot;:&quot;filter type&quot;,&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;params&quot;:{&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;field&quot;:&quot;value&quot;&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; }&lt;br&gt;&amp;nbsp; &amp;nbsp; }&lt;br&gt;&amp;nbsp; &amp;nbsp; {&lt;br&gt;&amp;nbsp; &amp;nbsp; ........&lt;br&gt;&amp;nbsp; &amp;nbsp; }&lt;br&gt;]" style="ellipse;whiteSpace=wrap;html=1;align=left;spacingTop=0;spacing=64;" vertex="1" parent="1">
+          <mxGeometry x="580" y="830" width="250" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="MYoXy8F3OLypVtrj_-tT-42" value="" style="endArrow=none;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="MYoXy8F3OLypVtrj_-tT-37" target="MYoXy8F3OLypVtrj_-tT-38">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="590" y="1190" as="sourcePoint" />
+            <mxPoint x="640" y="1140" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MYoXy8F3OLypVtrj_-tT-45" value="note" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="75" y="1125" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="MYoXy8F3OLypVtrj_-tT-46" value="结果数据处理filters，采用mysql json类型存储&lt;br&gt;&quot;resultFilters&quot;:[&lt;br&gt;&amp;nbsp; &amp;nbsp; {&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;type&quot;:&quot;CopyFilter&quot;,&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;params&quot;:{&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;field&quot;:&quot;value&quot;&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; }&lt;br&gt;&amp;nbsp; &amp;nbsp; }&lt;br&gt;&amp;nbsp; &amp;nbsp; {&lt;br&gt;&amp;nbsp; &amp;nbsp; ........&lt;br&gt;&amp;nbsp; &amp;nbsp; }&lt;br&gt;]" style="ellipse;whiteSpace=wrap;html=1;align=left;spacingTop=0;spacing=64;" vertex="1" parent="1">
+          <mxGeometry x="710" y="1040" width="255" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="MYoXy8F3OLypVtrj_-tT-47" value="" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="40" y="1440" width="950" height="520" as="geometry" />
+        </mxCell>
+        <mxCell id="MYoXy8F3OLypVtrj_-tT-48" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="MYoXy8F3OLypVtrj_-tT-53" target="MYoXy8F3OLypVtrj_-tT-56">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MYoXy8F3OLypVtrj_-tT-49" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="MYoXy8F3OLypVtrj_-tT-53" target="MYoXy8F3OLypVtrj_-tT-55">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MYoXy8F3OLypVtrj_-tT-50" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="MYoXy8F3OLypVtrj_-tT-53" target="MYoXy8F3OLypVtrj_-tT-57">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MYoXy8F3OLypVtrj_-tT-51" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="MYoXy8F3OLypVtrj_-tT-53" target="MYoXy8F3OLypVtrj_-tT-61">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MYoXy8F3OLypVtrj_-tT-52" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.024;entryY=0.355;entryDx=0;entryDy=0;endArrow=none;endFill=0;entryPerimeter=0;" edge="1" parent="1" source="MYoXy8F3OLypVtrj_-tT-53" target="MYoXy8F3OLypVtrj_-tT-62">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MYoXy8F3OLypVtrj_-tT-68" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="MYoXy8F3OLypVtrj_-tT-53" target="MYoXy8F3OLypVtrj_-tT-67">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MYoXy8F3OLypVtrj_-tT-53" value="后端json数据处理配置" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="1715" width="470" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MYoXy8F3OLypVtrj_-tT-54" value="id" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="85" y="1680" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="MYoXy8F3OLypVtrj_-tT-55" value="fromTopic&lt;br&gt;(确定数据来源)" style="ellipse;whiteSpace=wrap;html=1;align=left;spacingTop=0;spacing=15;" vertex="1" parent="1">
+          <mxGeometry x="120" y="1600" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="MYoXy8F3OLypVtrj_-tT-56" value="toTopics" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="1730" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="MYoXy8F3OLypVtrj_-tT-57" value="源数据处理filters，采用mysql json类型存储&lt;br&gt;&quot;sourceFilters&quot;:[&lt;br&gt;&amp;nbsp; &amp;nbsp; {&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;type&quot;:&quot;filter type&quot;,&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;params&quot;:{&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;field&quot;:&quot;value&quot;&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; }&lt;br&gt;&amp;nbsp; &amp;nbsp; }&lt;br&gt;&amp;nbsp; &amp;nbsp; {&lt;br&gt;&amp;nbsp; &amp;nbsp; ........&lt;br&gt;&amp;nbsp; &amp;nbsp; }&lt;br&gt;]" style="ellipse;whiteSpace=wrap;html=1;align=left;spacingTop=0;spacing=64;" vertex="1" parent="1">
+          <mxGeometry x="530" y="1470" width="250" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="MYoXy8F3OLypVtrj_-tT-58" value="" style="endArrow=none;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="MYoXy8F3OLypVtrj_-tT-53" target="MYoXy8F3OLypVtrj_-tT-54">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="590" y="1840" as="sourcePoint" />
+            <mxPoint x="640" y="1790" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MYoXy8F3OLypVtrj_-tT-61" value="note" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="75" y="1770" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="MYoXy8F3OLypVtrj_-tT-62" value="结果数据处理filters，采用mysql json类型存储&lt;br&gt;&quot;resultFilters&quot;:[&lt;br&gt;&amp;nbsp; &amp;nbsp; {&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;type&quot;:&quot;CopyFilter&quot;,&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;params&quot;:{&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;field&quot;:&quot;value&quot;&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; }&lt;br&gt;&amp;nbsp; &amp;nbsp; }&lt;br&gt;&amp;nbsp; &amp;nbsp; {&lt;br&gt;&amp;nbsp; &amp;nbsp; ........&lt;br&gt;&amp;nbsp; &amp;nbsp; }&lt;br&gt;]" style="ellipse;whiteSpace=wrap;html=1;align=left;spacingTop=0;spacing=64;" vertex="1" parent="1">
+          <mxGeometry x="700" y="1710" width="255" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="MYoXy8F3OLypVtrj_-tT-63" value="业务相关配置：&lt;br&gt;1.bizType&lt;br&gt;2.targetType&lt;br&gt;3.eventType&lt;br&gt;4.objectIdField&lt;br&gt;5.dataType&lt;br&gt;6.&lt;span style=&quot;text-align: center&quot;&gt;resultType&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;align=left;spacingTop=0;spacing=38;" vertex="1" parent="1">
+          <mxGeometry x="330" y="240" width="160" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="MYoXy8F3OLypVtrj_-tT-65" value="业务相关配置：&lt;br&gt;1.bizType&lt;br&gt;2.targetType&lt;br&gt;3.eventType&lt;br&gt;4.objectIdField&lt;br&gt;5.dataType&lt;br&gt;6.idField&lt;br&gt;7.&lt;span style=&quot;text-align: center&quot;&gt;resultType&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;align=left;spacingTop=0;spacing=38;" vertex="1" parent="1">
+          <mxGeometry x="360" y="860" width="160" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="MYoXy8F3OLypVtrj_-tT-67" value="业务相关配置：&lt;br&gt;1.bizType&lt;br&gt;2.targetType&lt;br&gt;3.eventType&lt;br&gt;4.objectIdField&lt;br&gt;5.dataType&lt;br&gt;6.idField&lt;br&gt;7.&lt;span style=&quot;text-align: center&quot;&gt;resultType&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;align=left;spacingTop=0;spacing=38;" vertex="1" parent="1">
+          <mxGeometry x="320" y="1510" width="160" height="150" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
