@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-13T08:39:55.742Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.192 Safari/537.36" etag="snai31QLrYIgbJbNYg2c" version="14.4.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-13T08:41:11.182Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.192 Safari/537.36" etag="eoPJDUy4JyMzvh1PbF3Q" version="14.4.4" type="github">
   <diagram id="BgcMQl1EHjmCi2zKJHaM" name="Page-1">
     <mxGraphModel dx="1395" dy="935" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -822,18 +822,18 @@
             <mxPoint x="1480" y="261.00000000000006" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="L5QTWPpQT6Xu5OOCfE65-110" value="表示各子服务配置变更" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=#ffffff;childText;" vertex="1" connectable="0" parent="L5QTWPpQT6Xu5OOCfE65-109">
+        <mxCell id="L5QTWPpQT6Xu5OOCfE65-110" value="表示获取配置" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=#ffffff;childText;" vertex="1" connectable="0" parent="L5QTWPpQT6Xu5OOCfE65-109">
           <mxGeometry x="0.0714" y="-1" relative="1" as="geometry">
             <mxPoint x="-5.47" y="-12.82" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="L5QTWPpQT6Xu5OOCfE65-111" value="" style="endArrow=classic;html=1;fillColor=#ffcd5a;strokeWidth=1;strokeColor=#330000;dashed=1;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1300" y="277.00000000000006" as="sourcePoint" />
-            <mxPoint x="1480" y="277.00000000000006" as="targetPoint" />
+            <mxPoint x="1300" y="282.00000000000006" as="sourcePoint" />
+            <mxPoint x="1480" y="282.00000000000006" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="L5QTWPpQT6Xu5OOCfE65-112" value="数据上报" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=#ffffff;childText;" vertex="1" connectable="0" parent="L5QTWPpQT6Xu5OOCfE65-111">
+        <mxCell id="L5QTWPpQT6Xu5OOCfE65-112" value="表示外部系统交互" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=#ffffff;childText;" vertex="1" connectable="0" parent="L5QTWPpQT6Xu5OOCfE65-111">
           <mxGeometry x="0.0714" y="-1" relative="1" as="geometry">
             <mxPoint x="-5.47" y="-12.82" as="offset" />
           </mxGeometry>
