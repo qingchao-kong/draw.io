@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-09-12T07:55:43.292Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.159 Safari/537.36" etag="MEgj62IcPxSb_kjRKbaD" version="14.8.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-09-12T08:08:40.149Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.159 Safari/537.36" etag="Z7YtfR8XmYtrdBtwLrdg" version="14.8.3" type="github">
   <diagram id="BkpU10VribQ9wAvCWP1K" name="Page-1">
     <mxGraphModel dx="4703" dy="2104" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1332,11 +1332,11 @@
         <mxCell id="r30piRePK2Ns8raRswh7-6" value="&lt;span style=&quot;white-space: normal&quot;&gt;process&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;verticalAlign=middle;align=center;spacingLeft=8;" vertex="1" parent="1">
           <mxGeometry x="-1325.8500000000001" y="3741.2700000000004" width="115.85" height="57.5" as="geometry" />
         </mxCell>
-        <mxCell id="r30piRePK2Ns8raRswh7-10" value="&lt;span style=&quot;white-space: normal&quot;&gt;MinuteTask&lt;br&gt;Map&amp;lt;uid,Map&amp;lt;feature,Pair&amp;lt;endTime,isZero&amp;gt;&amp;gt;&amp;gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;verticalAlign=middle;align=center;spacingLeft=8;" vertex="1" parent="1">
+        <mxCell id="r30piRePK2Ns8raRswh7-10" value="&lt;span style=&quot;white-space: normal&quot;&gt;MinuteTask&lt;br&gt;Map&amp;lt;uid,Map&amp;lt;feature,Pair&amp;lt;endTime,isNull&amp;gt;&amp;gt;&amp;gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;verticalAlign=middle;align=center;spacingLeft=8;" vertex="1" parent="1">
           <mxGeometry x="-1950.34" y="3987" width="276.81" height="57.5" as="geometry" />
         </mxCell>
-        <mxCell id="r30piRePK2Ns8raRswh7-12" value="&lt;div class=&quot;code-line__2r40 &quot;&gt;&lt;div class=&quot;code-line__2r40 &quot;&gt;假设峰值uv=100万，6个并行度，每个并行度17万左右，每个uid共占用内存100byte，17万*100byte=16M左右&lt;/div&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-1850" y="4102.5" width="160" height="87.5" as="geometry" />
+        <mxCell id="r30piRePK2Ns8raRswh7-12" value="&lt;div class=&quot;code-line__2r40 &quot;&gt;&lt;div class=&quot;code-line__2r40 &quot;&gt;1.占用内存：假设峰值uv=100万，12个并行度，每个并行度8.3万左右，每个uid共占用内存100byte，8.3万*100byte=7.9M左右&lt;/div&gt;&lt;div class=&quot;code-line__2r40 &quot;&gt;2.qps：1400&lt;/div&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-1873.53" y="4104.76" width="200" height="87.5" as="geometry" />
         </mxCell>
         <mxCell id="r30piRePK2Ns8raRswh7-14" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="r30piRePK2Ns8raRswh7-10" target="r30piRePK2Ns8raRswh7-12">
           <mxGeometry relative="1" as="geometry">
