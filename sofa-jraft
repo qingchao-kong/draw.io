@@ -1,1 +1,34 @@
-<mxfile host="app.diagrams.net" modified="2022-03-02T12:02:37.777Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.109 Safari/537.36" version="15.5.6" etag="jQ-uPUIJp6zdyHPO3KuH" type="github"><diagram id="1mwQ_Ufg1uEXbgfBlUgT">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-03-02T12:07:16.234Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.109 Safari/537.36" etag="fHGEgB7A8jjY7kiexy-k" version="15.5.6" type="github">
+  <diagram id="1mwQ_Ufg1uEXbgfBlUgT" name="Page-1">
+    <mxGraphModel dx="1298" dy="865" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="WkK0rmrm02yV_yUS42P6-1" value="node" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=bottom;" vertex="1" parent="1">
+          <mxGeometry x="270" y="280" width="400" height="270" as="geometry" />
+        </mxCell>
+        <mxCell id="WkK0rmrm02yV_yUS42P6-2" value="StoreEngine" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=bottom;" vertex="1" parent="1">
+          <mxGeometry x="290" y="290" width="350" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="WkK0rmrm02yV_yUS42P6-4" value="Store" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=bottom;" vertex="1" parent="1">
+          <mxGeometry x="326" y="305" width="175" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="WkK0rmrm02yV_yUS42P6-5" value="region" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="336" y="315" width="70" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="WkK0rmrm02yV_yUS42P6-6" value="region" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="416" y="315" width="70" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="WkK0rmrm02yV_yUS42P6-7" value="region" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="336" y="375" width="70" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="WkK0rmrm02yV_yUS42P6-8" value="region" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="416" y="375" width="70" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="WkK0rmrm02yV_yUS42P6-9" value="RocksDB" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="520" y="340" width="90" height="85" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
