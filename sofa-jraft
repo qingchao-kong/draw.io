@@ -1,20 +1,20 @@
-<mxfile host="app.diagrams.net" modified="2022-03-03T09:15:10.182Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.109 Safari/537.36" etag="L3mrTX1fNdhN_scn8diQ" version="15.5.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-03T09:16:46.338Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.109 Safari/537.36" etag="7LKV_HblQiNTVKJz6FA2" version="15.5.6" type="github">
   <diagram id="1mwQ_Ufg1uEXbgfBlUgT" name="Page-1">
     <mxGraphModel dx="1298" dy="2034" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="WkK0rmrm02yV_yUS42P6-1" value="node" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=bottom;" vertex="1" parent="1">
-          <mxGeometry x="150" y="-50" width="1000" height="890" as="geometry" />
+          <mxGeometry x="70" y="-50" width="1080" height="890" as="geometry" />
         </mxCell>
         <mxCell id="WkK0rmrm02yV_yUS42P6-2" value="StoreEngine" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=bottom;" vertex="1" parent="1">
-          <mxGeometry x="160" y="40" width="480" height="690" as="geometry" />
+          <mxGeometry x="100" y="-20" width="540" height="750" as="geometry" />
         </mxCell>
         <mxCell id="WkK0rmrm02yV_yUS42P6-4" value="Store" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=bottom;" vertex="1" parent="1">
-          <mxGeometry x="180" y="100" width="331" height="435" as="geometry" />
+          <mxGeometry x="120" width="391" height="535" as="geometry" />
         </mxCell>
         <mxCell id="WkK0rmrm02yV_yUS42P6-5" value="&lt;pre style=&quot;background-color: #ffffff ; color: #080808 ; font-family: &amp;#34;jetbrains mono&amp;#34; ; font-size: 9.8pt&quot;&gt;&lt;span style=&quot;color: #000000&quot;&gt;RegionEngine&lt;/span&gt;&lt;/pre&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=bottom;" vertex="1" parent="1">
-          <mxGeometry x="190" y="120" width="192" height="380" as="geometry" />
+          <mxGeometry x="150" y="20" width="232" height="500" as="geometry" />
         </mxCell>
         <mxCell id="WkK0rmrm02yV_yUS42P6-9" value="RocksDB" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=middle;" vertex="1" parent="1">
           <mxGeometry x="520" y="280" width="90" height="85" as="geometry" />
@@ -62,14 +62,13 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="333" y="530" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="416" y="590" />
-              <mxPoint x="416" y="550" />
-              <mxPoint x="286" y="550" />
+              <mxPoint x="333" y="550" />
+              <mxPoint x="268" y="550" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="WkK0rmrm02yV_yUS42P6-22" value="&lt;pre style=&quot;background-color: rgb(255 , 255 , 255) ; color: rgb(8 , 8 , 8) ; font-family: &amp;#34;jetbrains mono&amp;#34;&quot;&gt;&lt;pre style=&quot;font-family: &amp;#34;jetbrains mono&amp;#34;&quot;&gt;&lt;span style=&quot;color: rgb(0 , 0 , 0)&quot;&gt;&lt;font style=&quot;font-size: 16px&quot;&gt;RegionKVService&lt;/font&gt;&lt;/span&gt;&lt;/pre&gt;&lt;pre style=&quot;font-family: &amp;#34;jetbrains mono&amp;#34;&quot;&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;KV server 端的请求处理服务，一个 StoreEngine 中&lt;/font&gt;&lt;/pre&gt;&lt;pre style=&quot;font-family: &amp;#34;jetbrains mono&amp;#34;&quot;&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;包含很多 RegionKVService, 每个 RegionKVService&lt;/font&gt;&lt;/pre&gt;&lt;pre style=&quot;font-family: &amp;#34;jetbrains mono&amp;#34;&quot;&gt;&lt;font style=&quot;font-size: 11px&quot;&gt; 对应一个region，只处理自己 region 范围内的请求&lt;/font&gt;&lt;span style=&quot;font-size: 9.8pt ; color: rgb(0 , 0 , 0)&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/pre&gt;&lt;/pre&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=middle;spacing=2;" vertex="1" parent="1">
-          <mxGeometry x="180" y="590" width="306" height="100" as="geometry" />
+          <mxGeometry x="180" y="570" width="306" height="115" as="geometry" />
         </mxCell>
         <mxCell id="WkK0rmrm02yV_yUS42P6-30" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="WkK0rmrm02yV_yUS42P6-23" target="WkK0rmrm02yV_yUS42P6-27">
           <mxGeometry relative="1" as="geometry" />
