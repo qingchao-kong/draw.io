@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-04T06:23:08.502Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="IJ11H62WHIMwim0Oewxo" version="20.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-04T06:30:46.021Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="rgrcu0SGZywwsdIFgqV_" version="20.4.0" type="github">
   <diagram id="ikEMQ3taQZnn_D-MTjAt" name="第 1 页">
     <mxGraphModel dx="2655" dy="3393" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -330,7 +330,7 @@
         <mxCell id="W9ZC-a-q59-rkaMblsp5-156" value="Response Queue" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="26.25" y="-1589" width="150" height="22" as="geometry" />
         </mxCell>
-        <mxCell id="W9ZC-a-q59-rkaMblsp5-157" value="ControlManager" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=middle;fillColor=#bac8d3;strokeColor=#23445d;" vertex="1" parent="1">
+        <mxCell id="W9ZC-a-q59-rkaMblsp5-157" value="Controller" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=middle;fillColor=#bac8d3;strokeColor=#23445d;" vertex="1" parent="1">
           <mxGeometry x="-111.25" y="-1420" width="180" height="90" as="geometry" />
         </mxCell>
       </root>
