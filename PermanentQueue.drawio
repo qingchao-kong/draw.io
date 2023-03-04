@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-04T06:30:46.021Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="rgrcu0SGZywwsdIFgqV_" version="20.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-04T06:44:57.411Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="QgwFF0CNRrnmxXkomAY1" version="20.4.0" type="github">
   <diagram id="ikEMQ3taQZnn_D-MTjAt" name="第 1 页">
     <mxGraphModel dx="2655" dy="3393" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -190,7 +190,7 @@
           <mxGeometry x="-240" y="-1890" width="1450" height="600" as="geometry" />
         </mxCell>
         <mxCell id="W9ZC-a-q59-rkaMblsp5-62" value="LogManager" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fillColor=#bac8d3;strokeColor=#23445d;" vertex="1" parent="1">
-          <mxGeometry x="450" y="-1860" width="730" height="460" as="geometry" />
+          <mxGeometry x="450" y="-1860" width="730" height="440" as="geometry" />
         </mxCell>
         <mxCell id="W9ZC-a-q59-rkaMblsp5-63" value="UnifiedLog" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=bottom;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="470" y="-1820" width="370" height="300" as="geometry" />
@@ -288,26 +288,29 @@
         <mxCell id="W9ZC-a-q59-rkaMblsp5-126" value="Response Queue" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="26.25" y="-1675" width="150" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="W9ZC-a-q59-rkaMblsp5-159" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;" edge="1" parent="1" source="W9ZC-a-q59-rkaMblsp5-134" target="W9ZC-a-q59-rkaMblsp5-158">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="W9ZC-a-q59-rkaMblsp5-134" value="IO处理(Kafka Apis)" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fillColor=#bac8d3;strokeColor=#23445d;" vertex="1" parent="1">
-          <mxGeometry x="234" y="-1720" width="180" height="210" as="geometry" />
+          <mxGeometry x="234" y="-1799" width="180" height="199" as="geometry" />
         </mxCell>
         <mxCell id="W9ZC-a-q59-rkaMblsp5-147" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="W9ZC-a-q59-rkaMblsp5-138" target="W9ZC-a-q59-rkaMblsp5-62">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="W9ZC-a-q59-rkaMblsp5-138" value="IO Thread 1" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=middle;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
-          <mxGeometry x="257.13" y="-1675" width="133.75" height="30" as="geometry" />
+          <mxGeometry x="257.13" y="-1754" width="133.75" height="30" as="geometry" />
         </mxCell>
         <mxCell id="W9ZC-a-q59-rkaMblsp5-148" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="W9ZC-a-q59-rkaMblsp5-142" target="W9ZC-a-q59-rkaMblsp5-62">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="W9ZC-a-q59-rkaMblsp5-142" value="IO Thread 1" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=middle;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
-          <mxGeometry x="257.12" y="-1625" width="133.75" height="30" as="geometry" />
+          <mxGeometry x="257.12" y="-1704" width="133.75" height="30" as="geometry" />
         </mxCell>
         <mxCell id="W9ZC-a-q59-rkaMblsp5-149" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="W9ZC-a-q59-rkaMblsp5-143" target="W9ZC-a-q59-rkaMblsp5-62">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="W9ZC-a-q59-rkaMblsp5-143" value="IO Thread 1" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=middle;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
-          <mxGeometry x="257.12" y="-1572" width="133.75" height="30" as="geometry" />
+          <mxGeometry x="257.12" y="-1651" width="133.75" height="30" as="geometry" />
         </mxCell>
         <mxCell id="W9ZC-a-q59-rkaMblsp5-144" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="W9ZC-a-q59-rkaMblsp5-122" target="W9ZC-a-q59-rkaMblsp5-138">
           <mxGeometry relative="1" as="geometry" />
@@ -319,7 +322,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="W9ZC-a-q59-rkaMblsp5-150" value="ReplicaManager" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=middle;fillColor=#bac8d3;strokeColor=#23445d;" vertex="1" parent="1">
-          <mxGeometry x="133.75" y="-1420" width="180" height="90" as="geometry" />
+          <mxGeometry x="12.5" y="-1440" width="145" height="90" as="geometry" />
         </mxCell>
         <mxCell id="W9ZC-a-q59-rkaMblsp5-154" value="Response Queue" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="26.25" y="-1647" width="150" height="22" as="geometry" />
@@ -331,7 +334,10 @@
           <mxGeometry x="26.25" y="-1589" width="150" height="22" as="geometry" />
         </mxCell>
         <mxCell id="W9ZC-a-q59-rkaMblsp5-157" value="Controller" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=middle;fillColor=#bac8d3;strokeColor=#23445d;" vertex="1" parent="1">
-          <mxGeometry x="-111.25" y="-1420" width="180" height="90" as="geometry" />
+          <mxGeometry x="-200" y="-1440" width="150" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="W9ZC-a-q59-rkaMblsp5-158" value="OffsetManager" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=middle;fillColor=#bac8d3;strokeColor=#23445d;" vertex="1" parent="1">
+          <mxGeometry x="234" y="-1510" width="180" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
