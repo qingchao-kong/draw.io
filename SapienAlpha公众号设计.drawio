@@ -1,13 +1,13 @@
-<mxfile host="app.diagrams.net" modified="2023-09-02T06:58:25.916Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="P20hXh4oUeu1stSo66OU" version="21.2.9" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-02T07:25:00.692Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="-hXNnRHaDYv4Pxbuwdyh" version="21.2.9" type="github">
   <diagram name="第 1 页" id="QTAsjR65V7fDov5XbZmy">
-    <mxGraphModel dx="1194" dy="791" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1194" dy="791" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="2sGhMW7u28O068fkxQ1E-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="160" y="40" width="470" height="600" as="geometry" />
         </mxCell>
-        <mxCell id="2sGhMW7u28O068fkxQ1E-2" value="【2023年09月05日】&lt;br&gt;&lt;br&gt;今日没有操作。或&lt;br&gt;今日操作如下：&lt;br&gt;1.纳指100(513100)，买入/卖出xx份；&lt;br&gt;2.xxETF(代码xxx)，买入/卖出xx份；&lt;br&gt;&lt;br&gt;&lt;br&gt;【此处一段简明扼要的分析，包括为什么买入/卖出，市场情况分析等】&lt;br&gt;&lt;br&gt;&lt;br&gt;当前持仓情况：&lt;br&gt;1.纳指100(513100)，共投入金额xxx元，份额xxx，买入平均价xx元，盈亏xxx元；&lt;br&gt;2.xxETF(代码xxx)，共投入金额xxx元，份额xxx，买入平均价xx元，盈亏xxx元；&lt;br&gt;&lt;br&gt;&lt;br&gt;SapienAlpha同时在进行其他ETF、股票、期货、数字资产的投资，若想了解更多，请加入知识星球或联系xxx。" style="text;html=1;strokeColor=default;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;dashed=1;" vertex="1" parent="1">
+        <mxCell id="2sGhMW7u28O068fkxQ1E-2" value="【2023年09月05日】&lt;br&gt;&lt;br&gt;今日没有操作。或&lt;br&gt;今日操作如下：&lt;br&gt;1.纳指100(513100)，买入/卖出xx份；&lt;br&gt;2.xxETF(代码xxx)，买入/卖出xx份；&lt;br&gt;&lt;b&gt;⚠️：投资操作依据SapienAlpha量化策略信号。&lt;/b&gt;&lt;br&gt;&lt;br&gt;【此处一段简明扼要的分析，包括为什么买入/卖出，市场情况分析等】&lt;br&gt;&lt;br&gt;&lt;br&gt;当前持仓情况：&lt;br&gt;1.纳指100(513100)，共投入金额xxx元，份额xxx，买入平均价xx元，盈亏xxx元；&lt;br&gt;2.xxETF(代码xxx)，共投入金额xxx元，份额xxx，买入平均价xx元，盈亏xxx元；&lt;br&gt;&lt;br&gt;&lt;br&gt;SapienAlpha同时在进行其他ETF、股票、期货、数字资产的投资，若想了解更多，请加入知识星球或联系xxx。" style="text;html=1;strokeColor=default;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="170" y="100" width="440" height="280" as="geometry" />
         </mxCell>
         <mxCell id="2sGhMW7u28O068fkxQ1E-3" value="SapienAlpha投研圈" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=14;" vertex="1" parent="1">
