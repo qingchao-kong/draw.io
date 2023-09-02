@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-09-02T06:57:04.247Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="J1bAA1lK_-vjSvB5bAcB" version="21.2.9" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-02T06:58:25.916Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="P20hXh4oUeu1stSo66OU" version="21.2.9" type="github">
   <diagram name="第 1 页" id="QTAsjR65V7fDov5XbZmy">
     <mxGraphModel dx="1194" dy="791" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -13,7 +13,7 @@
         <mxCell id="2sGhMW7u28O068fkxQ1E-3" value="SapienAlpha投研圈" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="345" y="40" width="150" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="2sGhMW7u28O068fkxQ1E-4" value="每日操作提醒" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="2sGhMW7u28O068fkxQ1E-4" value="每日操作提醒" style="text;html=1;strokeColor=default;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="40" y="100" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="2sGhMW7u28O068fkxQ1E-5" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1" source="2sGhMW7u28O068fkxQ1E-4" target="2sGhMW7u28O068fkxQ1E-2">
@@ -61,13 +61,13 @@
         <mxCell id="2sGhMW7u28O068fkxQ1E-18" value="农场投资" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="320" y="440" width="150" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="2sGhMW7u28O068fkxQ1E-19" value="一级菜单" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="2sGhMW7u28O068fkxQ1E-19" value="一级菜单" style="text;html=1;strokeColor=default;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="40" y="580" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="2sGhMW7u28O068fkxQ1E-20" value="二级菜单" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="2sGhMW7u28O068fkxQ1E-20" value="二级菜单" style="text;html=1;strokeColor=default;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="40" y="480" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="2sGhMW7u28O068fkxQ1E-21" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1" source="2sGhMW7u28O068fkxQ1E-19" target="2sGhMW7u28O068fkxQ1E-6">
+        <mxCell id="2sGhMW7u28O068fkxQ1E-21" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1" source="2sGhMW7u28O068fkxQ1E-19" target="2sGhMW7u28O068fkxQ1E-6">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="130" y="125" as="sourcePoint" />
             <mxPoint x="180" y="180" as="targetPoint" />
