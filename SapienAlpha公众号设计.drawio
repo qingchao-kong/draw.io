@@ -1,9 +1,84 @@
-<mxfile host="app.diagrams.net" modified="2023-09-02T06:16:23.640Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" version="21.2.9" etag="HODpmwJ2fq097OkYrJPa" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-02T06:57:04.247Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="J1bAA1lK_-vjSvB5bAcB" version="21.2.9" type="github">
   <diagram name="第 1 页" id="QTAsjR65V7fDov5XbZmy">
-    <mxGraphModel>
+    <mxGraphModel dx="1194" dy="791" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="2sGhMW7u28O068fkxQ1E-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="40" width="470" height="600" as="geometry" />
+        </mxCell>
+        <mxCell id="2sGhMW7u28O068fkxQ1E-2" value="【2023年09月05日】&lt;br&gt;&lt;br&gt;今日没有操作。或&lt;br&gt;今日操作如下：&lt;br&gt;1.纳指100(513100)，买入/卖出xx份；&lt;br&gt;2.xxETF(代码xxx)，买入/卖出xx份；&lt;br&gt;&lt;br&gt;&lt;br&gt;【此处一段简明扼要的分析，包括为什么买入/卖出，市场情况分析等】&lt;br&gt;&lt;br&gt;&lt;br&gt;当前持仓情况：&lt;br&gt;1.纳指100(513100)，共投入金额xxx元，份额xxx，买入平均价xx元，盈亏xxx元；&lt;br&gt;2.xxETF(代码xxx)，共投入金额xxx元，份额xxx，买入平均价xx元，盈亏xxx元；&lt;br&gt;&lt;br&gt;&lt;br&gt;SapienAlpha同时在进行其他ETF、股票、期货、数字资产的投资，若想了解更多，请加入知识星球或联系xxx。" style="text;html=1;strokeColor=default;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="100" width="440" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="2sGhMW7u28O068fkxQ1E-3" value="SapienAlpha投研圈" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="345" y="40" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2sGhMW7u28O068fkxQ1E-4" value="每日操作提醒" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="40" y="100" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2sGhMW7u28O068fkxQ1E-5" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1" source="2sGhMW7u28O068fkxQ1E-4" target="2sGhMW7u28O068fkxQ1E-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="410" y="400" as="sourcePoint" />
+            <mxPoint x="460" y="350" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2sGhMW7u28O068fkxQ1E-6" value="投资日记" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="160" y="600" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="2sGhMW7u28O068fkxQ1E-7" value="投资思维" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="320" y="600" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="2sGhMW7u28O068fkxQ1E-8" value="联系SapienAlpha" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="470" y="600" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="2sGhMW7u28O068fkxQ1E-9" value="商务合作" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="520" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="2sGhMW7u28O068fkxQ1E-10" value="文章转载" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="480" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="2sGhMW7u28O068fkxQ1E-11" value="中港美股" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="560" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="2sGhMW7u28O068fkxQ1E-12" value="投资一期" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="560" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="2sGhMW7u28O068fkxQ1E-13" value="投资二期" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="520" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="2sGhMW7u28O068fkxQ1E-14" value="今天操作吗？" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="480" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="2sGhMW7u28O068fkxQ1E-15" value="金银大宗" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="520" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="2sGhMW7u28O068fkxQ1E-16" value="数字货币" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="480" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="2sGhMW7u28O068fkxQ1E-17" value="关于SapienAlpha" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="560" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="2sGhMW7u28O068fkxQ1E-18" value="农场投资" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="440" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="2sGhMW7u28O068fkxQ1E-19" value="一级菜单" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="40" y="580" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2sGhMW7u28O068fkxQ1E-20" value="二级菜单" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="40" y="480" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2sGhMW7u28O068fkxQ1E-21" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1" source="2sGhMW7u28O068fkxQ1E-19" target="2sGhMW7u28O068fkxQ1E-6">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="130" y="125" as="sourcePoint" />
+            <mxPoint x="180" y="180" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2sGhMW7u28O068fkxQ1E-22" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1" source="2sGhMW7u28O068fkxQ1E-20" target="2sGhMW7u28O068fkxQ1E-13">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="140" y="135" as="sourcePoint" />
+            <mxPoint x="190" y="190" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
